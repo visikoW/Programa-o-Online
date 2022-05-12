@@ -1,7 +1,7 @@
-#include <stdio.h>
+ls -l#include <stdio.h>
 #include <stdlib.h>
 
-int mainHelper(void) {
+int main(void) {
 
   const float a = 50;
   printf("%f", a);
